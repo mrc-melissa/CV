@@ -1,0 +1,44 @@
+---
+title: "Curriculum"
+author: "Melissa Rodríguez"
+ocupation: "Biologa/ Coordinadora de Proyectos"
+date: "`r Sys.Date()`"
+output: html_document
+---
+![Imagen de Agua istockphoto](https://media.istockphoto.com/id/1355902841/es/foto/textura-abstracta-o-de-burbuja-natural-de-onda-de-agua-azul-jabón-de-gel-fotografía-de-fondo.jpg?s=612x612&w=0&k=20&c=AHSActmKvwgUw4CJW6frEduAKdRwFfpTq1VwCDPlGFg=)
+
+## *ESTUDIOS:* 
+  •**Septiembre. 2000- 2004.**  Universidad Nacional.  Egresada de Licenciatura   en Manejo de Recursos Naturales.  
+  •**Abril- septiembre 2002.** Utrecht Universtity, Holanda.  Cursos: Nature      Conservation and Ecology Restoration, PCRaster Environmental Software:      Cartographic Modeling and Dynamic Modeling.   
+  •**1995-2000.  Universidad Nacional.** Bachillerato en Biología Tropical.    
+
+### _CURSOS:_
+• _Mayo 2022._ Curso de Incorporación de la Gestión de Riesgo y Preparativos para Emergencias en los Proyectos.   
+•	_Junio 2020._ La seguridad Hídrica y los Objetivos del Desarrollo Sostenible. Catedra Unesco Agua y Educación para el Desarrollo Sostenible.De la Universidad Nacional del Litoral, Facultad de Ingeniería y Ciencias Hidráulicas.  
+•	_Octubre 2017._ Curso-Taller: Información Geográfica Voluntaria pre-post desastre para la respuesta humanitaria y la prevención de riesgo: aplicación práctica del Programa Humanitarian Open Street Map Team.   
+•	_Febrero 2008._  NASA- Universidad Nacional. SeaDas Course.    
+•	_Junio 2006._ Colegio de Biólogos de Costa Rica. Seminario Realización de Estudios de Impacto Ambiental.   
+•	_Abril 2005._  Universidad Nacional.  Seminario Proyecto Acuífero Barba.   
+•	_Noviembre 2004._ PRIGA- Universidad Nacional.  Seminario: Investigación y gestión del recurso hídrico en la Universidad Nacional.  
+•	_Noviembre 2004._  Rain Forest Alliance.  Curso de auditores (RAS).  
+•	_Septiembre de 2004._ Universidad Nacional. Taller Regional de Revisión de Modelos de Flujo. 
+•	_Enero de 2004._ CERENA H2O. Taller para la Restauración de la Micro Cuenca del Río Bermúdez.
+•	_Mayo de 2000._  Instituto Nacional de Biodiversidad, Universidad Nacional, Sistema Nacional de Áreas de Conservación.  Métodos Ecológicos y Veterinarios en el Conteo e Identificación de Colúmbidos. 
+
+### _*DESTREZAS:*_
+1.  Inglés fluido.  
+2.  Conocimiento básico de Microsoft Office.  
+3.  Conocimiento en uso de Sistemas de Información Geográfica _(QGIS, ARCVIEW, ILWIS, ENVI)_.    
+4.  Uso básico de programas de modelación PCRaster, ASMWin y Surfer.
+5.  Excelente servicio al cliente.  
+6.  Facilidad para trabajar en equipo.  
+7. 	Facilidad para tratar con gente.  
+
+## Cita Web
+[Visitenos en nuestra pagina web](https://mecanicadecuencas.com/)
+
+
+## R Markdown
+
+ For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
